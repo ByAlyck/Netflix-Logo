@@ -49,17 +49,6 @@ Contributions for improvements and optimizations are welcome! If you would like 
 
 5. Open a Pull Request describing the proposed changes.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more information.
-
-## Contact
-
-If you have any questions or suggestions related to this project, feel free to contact:
-
-Author: Your Name
-Email: youremail@example.com
-
 I hope this README is helpful in understanding the process of creating the Netflix logo using HTML and CSS. Feel free to use it as a reference and adapt it to your own project.
 ##
 ![2023-06-01](https://github.com/ByAlyck/Netflix-Logo/assets/113322342/e26181a9-feae-459c-a27a-f2d530aea1a2)
