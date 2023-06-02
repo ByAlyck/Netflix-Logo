@@ -1,7 +1,6 @@
 # Netflix Logo
 
 A "Netflix logo" with HTML and CSS is a visual representation of the Netflix logo created using these markup and styling languages. HTML is used to structure the markup of the logo, while CSS is used to style it.
-
 [𝗠𝗼𝗿𝗲](https://byalyck.github.io/Netflix-Logo/)
 
 ## Technologies Used
