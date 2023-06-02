@@ -51,4 +51,4 @@ Contributions for improvements and optimizations are welcome! If you would like 
 I hope this README is helpful in understanding the process of creating the Netflix logo using HTML and CSS. Feel free to use it as a reference and adapt it to your own project.
 ##
 ![2023-06-01](https://github.com/ByAlyck/Netflix-Logo/assets/113322342/e26181a9-feae-459c-a27a-f2d530aea1a2)
-[𝗠𝗼𝗿𝗲](https://byalyck.github.io/Netflix-Logo/)
+
